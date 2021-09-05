@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BitcoinCryptoConverter</string>
+    <string name="amount_in_naira">Amount in Naira</string>
+    <string name="buy_bitcoin_in_naira">Buy Bitcoin in Naira</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="etherum">Etherum</string>
+    <string name="round_up_amount">Round Up Amount?</string>
+    <string name="convert">Convert</string>
+    <string name="conversion_value">Conversion Value</string>
+    <string name="crypto_amount_value">Crypto Amount Value: %s</string>
+</resources>
